@@ -1,1 +1,3 @@
-dilchenk1 | https://github.com/grantkelsay/Hambacher_IceBreaker/pull/8
+| Github User | Pull Request Link                                          |
+|-------------| -----------------------------------------------------------|
+| dilchenk1   | https://github.com/grantkelsay/Hambacher_IceBreaker/pull/8 |
