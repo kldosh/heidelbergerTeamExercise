@@ -2,27 +2,27 @@ Dictionary
 
 German -> English
 
-Raesfeld ->
-Flughafen ->
-Berlin ->
-Bratwurst -> 
-Hauptstrasse -> 
-Brot ->
-Klimaanlage -> 
-Rammstein ->
-Porsche ->
-BMW ->
-Biergarten ->
-Ratskeller ->
-Dirndel ->
-Lederhose ->
-Schloss ->
-wettbewerbsfaehig ->
-Mehlhase ->
-Gebaeck ->
-Baeckerei ->
-Hund ->
-Doener ->
-Apfelkuchen ->
-Schloss ->
-Eltz ->
+Raesfeld -> Raesfeld
+Flughafen -> airport
+Berlin -> Berlin
+Bratwurst -> sausage
+Hauptstrasse -> main road
+Brot -> bread
+Klimaanlage -> air conditioner
+Rammstein -> Rammstein
+Porsche -> Porsche
+BMW -> BMW
+Biergarten -> beer garden/brewery
+Ratskeller -> reastaurant
+Dirndel -> girl
+Lederhose -> leather shorts
+Schloss -> palace
+wettbewerbsfaehig -> competitive
+Mehlhase -> Mehlhase
+Gebaeck -> pastry
+Baeckerei -> bakery
+Hund -> dog
+Doener -> Doener - name of a popular German snack
+Apfelkuchen -> apple cake
+Schloss -> mansion
+Eltz -> Eltz Castle
