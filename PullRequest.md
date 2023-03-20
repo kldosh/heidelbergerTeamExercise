@@ -3,3 +3,4 @@
 | dilchenk1               | https://github.com/grantkelsay/Hambacher_IceBreaker/pull/8 |
 | docarey                 | https://github.com/jarodr47/charlottenburg_story/pull/1    |
 | Muhammad-Fateen2003     | https://github.com/wtmcwhor/LoewenburgStoryTime/pull/3     |
+| kldosh                  | https://github.com/rbuswel1/BueckeburgStorytime/pull/2     |
